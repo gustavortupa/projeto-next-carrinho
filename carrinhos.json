@@ -1,0 +1,19 @@
+{
+     "carrinhos": [
+          { "id": 1, "data": "06-04-2022", "valor": "100.00" },
+          { "id": 2, "data": "07-04-2022", "valor": "200.00" },
+          { "id": 3, "data": "08-04-2022", "valor": "300.00" },
+          { "id": 4, "data": "09-04-2022", "valor": "400.00" }
+     
+     ],
+     "itens": [
+          {"id": 1, "produto": "sabonete", "carrinhoId": 1},
+          {"id": 2, "produto": "macarrão", "carrinhoId": 2},
+          {"id": 3, "produto": "óleo", "carrinhoId": 3},
+          {"id": 4, "produto": "arroz", "carrinhoId": 1},
+          {"id": 5, "produto": "feijão", "carrinhoId": 2},
+          {"id": 6, "produto": "suplemento", "carrinhoId": 4}
+
+     ]
+}
+    
