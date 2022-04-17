@@ -1,0 +1,37 @@
+{
+     "posts": [
+          { "id": 1, "title": "Post 01 - Javascript e Next.js", "author": "JohnDoe" },
+          { "id": 2, "title": "Post 02 - Javascript e Node.js", "author": "JohnDoe" },
+          { "id": 3, "title": "Post 03 - Typescript", "author": "JohnDoe" },
+          { "id": 4, "title": "Post 04 - Javascript e ReactJs", "author": "JohnDoe" }
+     ],
+     "comments": [
+     { "id": 1, "body": "Comentario 1 sobre o post 1", "postId": 1 },
+     { "id": 2, "body": "Comentario 1 sobre o post 2", "postId": 2 },
+     { "id": 3, "body": "Comentario 1 sobre o post 3", "postId": 3 },
+     { "id": 4, "body": "Comentario 2 sobre o post 1", "postId": 1 },
+     { "id": 5, "body": "Comentario 2 sobre o post 2", "postId": 2 },
+     { "id": 6, "body": "Comentario 1 sobre o post 4", "postId": 4 }
+     ],
+     "carrinhos": [
+          { "id": 1, "data": "06-04-2022", "valor": "100.00" },
+          { "id": 2, "data": "07-04-2022", "valor": "200.00" },
+          { "id": 3, "data": "08-04-2022", "valor": "300.00" },
+          { "id": 4, "data": "09-04-2022", "valor": "400.00" }
+     
+     ],
+     "itens": [
+          {"id": 1, "produto": "sabonete", "carrinhoId": 1},
+          {"id": 2, "produto": "macarrão", "carrinhoId": 2},
+          {"id": 3, "produto": "óleo", "carrinhoId": 3},
+          {"id": 4, "produto": "arroz", "carrinhoId": 1},
+          {"id": 5, "produto": "feijão", "carrinhoId": 2},
+          {"id": 6, "produto": "suplemento", "carrinhoId": 4}
+
+     ]
+
+
+
+
+}
+    
